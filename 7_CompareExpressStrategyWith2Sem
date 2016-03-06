@@ -1,0 +1,12 @@
+
+
+2. sem: Model-->Controller --> Servlet – JSP
+
+4. sem: Model --> Controller/Router --> Jade
+
+With server side templating we do something like this.
+The controller gets some data from the model and pass it on to the view.
+The view then sends some data back to the controller, and then back to the model.
+
+
+https://qamean-plaul.rhcloud.com/index.php?qa=272&qa_1=compare-express-strategy-server-templating-second-semester

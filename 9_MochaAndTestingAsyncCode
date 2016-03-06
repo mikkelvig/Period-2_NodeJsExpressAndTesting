@@ -1,0 +1,11 @@
+
+Mocha is a feature-rich JavaScript test framework running on Node.js and the browser.
+Mocha tests run serially, allowing for flexible and accurate reporting, while mapping
+uncaught exceptions to the correct test cases. Hosted on GitHub.
+
+
+I used Mocha and Chai to test my JokeApi and the code can be found here:
+https://github.com/mikkelvig/JokeApiExercises-Period2/blob/master/testOfApi/mochaServerApiTest.js
+
+I tested asynchronous code in the first part of the TestExercises.pdf, and the project can be
+found here: https://github.com/mikkelvig/Week3Test

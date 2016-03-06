@@ -1,0 +1,5 @@
+Even though Node uses a Single Threaded strategy, it is easy to scale it to multi-core
+machines. For CPU intensive task Node.js can fire up child processes, and for scaling
+up web-services the trick is to start multiple node instances on the fly.
+Node has built-in support for this via the Clustering module and Express run multiple
+virtual hosts (i.e. run multiple domains under one IP) out of the box.

@@ -1,0 +1,20 @@
+
+For a long time JavaScript was used only for front-end, until Google's V8 engine came along.
+This made JavaScript run much faster, and spawned the creation of things like NodeJs, witch
+allows for server side JavaScript.
+
+Node.js is an open-source, cross-platform runtime environment for developing server-side Web
+applications. Although Node.js is not a JavaScript framework, many of its basic modules are
+written in JavaScript, and developers can write new modules in JavaScript.
+
+The real magic behind Node is the event loop. The event loop is a single thread that performs
+all I/O operations asynchronously. Traditionally, I/O operations either run synchronously
+(blocking) or asynchronously by spawning off parallel threads to perform the work, consuming
+a lot of memory. In contrast, when a Node application needs to perform an I/O operation,
+it sends an asynchronous task to the event loop, along with a callback function, and then
+continues to execute the rest of its program. When the async operation completes, the event
+loop returns to the task to execute its callback.
+
+Reading and writing to network connections, filesystem, or database execute very, very fast
+in Node. Node allows you to build fast, scalable network applications capable of handling a
+huge number of simultaneous connections.

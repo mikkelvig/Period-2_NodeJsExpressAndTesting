@@ -1,0 +1,38 @@
+
+Period 2 - Node.js, Express + JavaScript Backend Testing
+
+Mikkel Vig
+
+This is my hand-in for the 2. period MEAN JavaScript course. In this project,
+i have one file for each question, with relevant code, and/or text, to answer the question.
+Some of the code will be taken from a larger project, witch means that you wont be able
+to actually run it from here.
+A link to the project it is taken from, will be provided in the file.
+
+
+
+The projects previously referred to are:
+
+JokeApiExercises-Period2 - https://github.com/mikkelvig/JokeApiExercises-Period2
+This is my solution to the questions found in ExpressExercises.pdf + part of the TestExercises.pdf
+found on Fronter.
+
+Week3Test - https://github.com/mikkelvig/Week3Test
+This project includes an example we did in class + a solution to the first part of
+the TestExercises.pdf.
+
+
+
+Sources:
+
+https://www.quora.com/Why-isnt-JavaScript-used-for-back-end-development
+https://en.wikipedia.org/wiki/Node.js
+http://blog.modulus.io/top-10-reasons-to-use-node
+https://en.wikipedia.org/wiki/Node.js
+http://expressjs.com/en/guide/using-middleware.html
+http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm
+https://mochajs.org/
+https://github.com/pgte/nock
+
+
+

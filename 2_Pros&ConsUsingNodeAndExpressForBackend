@@ -1,0 +1,12 @@
+(+) Suited for apps - A lot of IO, chat- web rest- servers, streaming servers, games
+(+) One language
+(+) Lightweight - Barebones from the outset, but add functionality as you go with npm.
+(+) Modern - get a lot of functionality for "free" using npm to get the latest and
+greatest from an active community.
+(+) Non blocking API - easier to use than threads.
+
+(-) Not suited for apps - Heavy CPU intensive applications.
+(-) Chaotic code - harder to read code, especially when being sloppy
+(-) Not a completely matured technology (from slides: Node.js Intro)
+(-) New packages pops up all the time (from slides: Node.js Intro)
+(-) Unhandled errors will shutdown the server (from slides: Node.js Intro)
